@@ -146,7 +146,7 @@ It’s faster and cheaper to change a wireframe than to rewrite code. Wireframes
 Example:
 If users find the placement of the date picker confusing, it can be repositioned on the wireframe within minutes—saving hours of future development rework.
 
-##📍 Real-World Scenario: Wireframing Prevents Usability Issues
+## 📍 Real-World Scenario: Wireframing Prevents Usability Issues
 🧪 Scenario:
 A startup was building a property rental app similar to AirBnB. During the wireframing phase, they tested a design where the "Book Now" button was placed at the bottom of the listing page, beneath multiple sections like reviews, amenities, and host details.
 
